@@ -1,0 +1,17 @@
+Write-up/ Analysis
+
+1.) Which method (single queue, multi-queue) appears to be preferable and why? Note 	specific values in your results when explaining why.
+
+	According to my results, the single queue method appears to be overall more preferable. During the first outputs (when there were only 1 and 2 tellers respectively), the multi-queue setup actually appeared to show an advantage. For example with two tellers, the single queue line had 121 customers served, while the multi-queue had 124 served. However, when looked at more closely, the standard deviation for the multi-queue was 18.38 as opposed to 14.99 for the single, indicating a wider spread for the multi-queue setup. 
+
+	As the number of tellers increases, it is obvious that the single queue offers an advantage in almost every category. For example with 4 tellers, the single queue served 232 customers (as opposed to 230 for multi), had a max wait of 27.18 (as opposed to 78.53), and an average waiter wait of 12.096 (as opposed to 13.668). These figures are only made more clear with a further increase in tellers. With 6 tellers, the max wait was only 7.25 for single queue, while the multi-queue boasted a max wait of 42.88. With 6 tellers the single queue had an average in system time of 8.77, while the multi-queue had an average in system of around 9.81. 
+	
+	With these results in mind, a bank owner would most certainly stick with a single queue setup for his or her bank. Through this method, customers get in and out quicker and are more likely to be satisfied with their experience. 
+
+2.) How many tellers do you think would be optimal for your bank? Note that this could have more than one answer, and a more informed answer may require more information from your simulation. However, try to justify your answer as best you can.
+
+	The optimal amount of tellers for the bank would be around 5. This amount of tellers almost guarantees that all customers are served without leaving. A single queue method with 5 tellers had an average wait time of 2.479, which is better than the 10.32 with 4 tellers. Although 6 tellers offered an even better average wait of 0.7, keeping the amount at 5 saves the bank money by only needing to employ 5 tellers. If the bank decides that 5 is too many, 4 tellers offer decent results with 232 served and 14 leaving in the single queue setup. However, with 4 tellers the max wait was 27.18 as opposed to the 15.6 max wait with 5 tellers. This could leave some customers dissatisfied. The bank would have to weigh the costs of an extra employee versus the potential losses from upset customers. Going under 4 tellers would not be in the banks best interest, as even with 3 tellers, the max wait increases to 42.04 with 58 customers leaving. In conclusion, 5 tellers is the safest bet, as all customers are served in a reasonable amount of time without the extra cost of a sixth teller.
+	
+
+
+

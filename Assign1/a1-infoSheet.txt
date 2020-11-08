@@ -1,0 +1,54 @@
+Assignment 1 Info Sheet
+
+
+Name:____Jeremy Tygh_______________ Assignment #: _____1________
+
+Lecture Day and Time: _____Tuesday/Thursday 9:30AM__________
+
+Recitation Day and Time: _____Wednesday 4:00 PM_____________
+
+Program Due Date: ________February 4, 11:59 PM___________
+
+Handed in Date: _______February 3_______________ 
+
+Source code (.java) file name(s):
+
+Assig1.java, SimBank.java, SimEvent.java, ArrivalEvent.java
+, CompletionEvent.java, CompletionLocEvent.java, Customer.java, Teller.java, RandDist.java
+
+Input / output file name(s) (if applicable): 
+
+a1-out1.txt, a1-out2.txt, a1-out3.txt, a1-out4.txt, a1-out5.txt, a1-out6.txt
+
+Does your program compile without error?: _____Yes_______ 
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: _____Yes_______ 
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+ 
+________________________________________________________________
+ 

@@ -1,0 +1,53 @@
+Assignment 4 Info Sheet
+
+
+Name:____Jeremy Tygh_______________ Assignment #: _____4________
+
+Lecture Day and Time: _____Tuesday/Thursday 9:30AM__________
+
+Recitation Day and Time: _____Wednesday 4:00 PM_____________
+
+Program Due Date: ________April 13, 11:59 PM___________
+
+Handed in Date: _______April 12_______________ 
+
+Source code (.java) file name(s):
+
+Partitionable.java, Sorter.java, SortTest.java, SimplePivot.java, MedOfThree.java, RandomPivot.java, QuickSort.java, MergeSort.java, and Assig4.java
+
+Input / output file name(s) (if applicable): 
+
+A4-32-Random.txt, A4-64-Random.txt, A4-128-Random.txt, A4-256-Random.txt, A4-512-Random.txt, A4-1-Sorted.txt, A4-2-Sorted.txt, A4-4-Sorted.txt, A4-8-Sorted.txt
+
+Does your program compile without error?: _____Yes_______ 
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: _____Yes_______ 
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+ 
+________________________________________________________________
+ 

@@ -1,0 +1,53 @@
+Assignment 2 Info Sheet
+
+
+Name:____Jeremy Tygh_______________ Assignment #: _____2________
+
+Lecture Day and Time: _____Tuesday/Thursday 9:30AM__________
+
+Recitation Day and Time: _____Wednesday 4:00 PM_____________
+
+Program Due Date: ________February 22, 11:59 PM___________
+
+Handed in Date: _______February 22_______________ 
+
+Source code (.java) file name(s):
+
+A2LList.java, LinkedListPlus.java, LLPTest.java, ReallyLongInt.java, RLITest.java
+
+Input / output file name(s) (if applicable): 
+
+N/A
+
+Does your program compile without error?: _____Yes_______ 
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: _____Yes_______ 
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+ 
+________________________________________________________________
+ 

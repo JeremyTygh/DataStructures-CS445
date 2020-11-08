@@ -1,0 +1,53 @@
+Assignment 3 Info Sheet
+
+
+Name:____Jeremy Tygh_______________ Assignment #: _____3________
+
+Lecture Day and Time: _____Tuesday/Thursday 9:30AM__________
+
+Recitation Day and Time: _____Wednesday 4:00 PM_____________
+
+Program Due Date: ________March 27, 11:59 PM___________
+
+Handed in Date: _______March 26_______________ 
+
+Source code (.java) file name(s):
+
+Assig3.java
+
+Input / output file name(s) (if applicable): 
+
+sample.txt , sample2.txt , sample3.txt , sample4.txt 
+
+Does your program compile without error?: _____Yes_______ 
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: _____Yes_______ 
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+ 
+________________________________________________________________
+ 
